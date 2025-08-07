@@ -31,8 +31,7 @@ This utility is standalone and does not connect to any central database or other
 
 ## Installation
 
-1.  Navigate to the `utils` directory.
-2.  Install the required Python package using the `requirements.txt` file:
+1.  Install the required Python package using the `requirements.txt` file:
 
     ```bash
     pip install -r requirements.txt
